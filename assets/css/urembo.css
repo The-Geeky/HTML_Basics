@@ -1,0 +1,19 @@
+h1{
+    color: #191998;
+    text-align: center;
+}
+h2{
+    color: #b43325;
+    }
+ul{
+    color: darkcyan;
+    font-family: "Courier 10 Pitch";
+    font-size: 30px;
+    margin: 20px;
+    }
+ol{
+    color: #66ff00;
+    font-family: "Bitstream Charter";
+    font-size: 40px;
+    margin: 30px;
+}

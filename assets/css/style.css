@@ -1,0 +1,37 @@
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+    background-color: red;
+    margin: 20px;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 20px;
+    color: #191998;
+    font-family: "Century Schoolbook L";
+    text-decoration: none;
+    font-size: 20px;
+    display: block;
+}
+li a:hover{
+    background-color: yellow;
+}
+.Fruits{
+    border: 2px solid red;
+    text-align: center;
+    color: #191998;
+    padding: 20px;
+    margin: 20px;
+}
+.Cars{
+    border: 2px dotted blue;
+    text-align: left;
+}
+.Companies{
+    border: solid green;
+    text-align: right;
+}
